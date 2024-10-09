@@ -1,3 +1,5 @@
+![maven passing](https://github.com/DeNeSSS/se-lab/actions/workflows/maven/badge.svg)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
