@@ -1,3 +1,4 @@
+[![License](https://github.com/DeNeSSS/se-lab/LICENSE](https://github.com/DeNeSSS/se-lab/actions/workflows/maven.yml/badge.svg)
 ![maven passing](https://github.com/DeNeSSS/se-lab/actions/workflows/maven.yml/badge.svg)
 
 # SE Spaceship
