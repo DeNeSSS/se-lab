@@ -1,4 +1,4 @@
-![maven passing](https://github.com/DeNeSSS/se-lab/actions/workflows/maven/badge.svg)
+![maven passing](https://github.com/DeNeSSS/se-lab/actions/workflows/maven.yml/badge.svg)
 
 # SE Spaceship
 
